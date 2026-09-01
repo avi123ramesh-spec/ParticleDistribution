@@ -1,6 +1,8 @@
 # Particle Microstructure Generator
 
-Version 1.0.1 , September 1, 2026
+Version 1.0.0, September 1, 2026
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22237255.svg)](https://doi.org/10.5281/zenodo.22237255)
 
 ## What It Does
 
@@ -25,7 +27,7 @@ Use **Help** in the application to open the illustrated User Manual.
 
 ## Citation
 
-Tripathi, A. (2026). *Particle Microstructure Generator* (Version 1.0) [Computer software].
+Tripathi, A. (2026). *Particle Microstructure Generator* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22237256
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](CITATION.cff).
 

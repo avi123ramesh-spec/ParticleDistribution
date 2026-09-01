@@ -1,6 +1,7 @@
 PARTICLE MICROSTRUCTURE GENERATOR - RELEASE NOTES
 
-Version 1.0 | September 1, 2026
+Version 1.0.0 | September 1, 2026
+Archived release DOI: https://doi.org/10.5281/zenodo.22237256
 
 Initial public release of Particle Microstructure Generator.
 
