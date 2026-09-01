@@ -1,0 +1,41 @@
+PARTICLE MICROSTRUCTURE GENERATOR RESEARCH USE LICENSE
+Version 1.0, September 1, 2026
+
+Copyright (c) 2026 Avinaya Tripathi. All rights reserved.
+
+Permission is granted to any person or organization to install and use unmodified
+copies of Particle Microstructure Generator (the "Software") solely for research
+and educational purposes, subject to the following conditions:
+
+1. The Software and its installer may not be redistributed, sublicensed, hosted,
+   mirrored, published, transferred, or otherwise provided to another party.
+   Other users must obtain the Software from its official distribution source.
+
+2. The Software may not be used for a commercial purpose or incorporated into a
+   commercial product or service without prior written permission from the
+   copyright holder.
+
+3. Copyright, license, authorship, and citation notices supplied with the Software
+   must be retained.
+
+4. Research results, figures, data, and publications produced through use of the
+   Software may be published and shared. Publications should cite the Software
+   using the citation information supplied with it.
+
+5. Except where applicable law expressly permits otherwise, the Software may not
+   be reverse engineered, decompiled, disassembled, modified, or used to create a
+   derivative work without prior written permission from the copyright holder.
+
+6. Third-party software and MATLAB Runtime components are governed by their own
+   license terms. This license applies only to rights held by the copyright holder
+   in Particle Microstructure Generator.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+For permission beyond these terms, contact:
+Avinaya Tripathi
+Avi123ramesh@gmail.com

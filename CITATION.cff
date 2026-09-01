@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite it using the metadata below."
+type: software
+title: "Particle Microstructure Generator"
+authors:
+  - family-names: "Tripathi"
+    given-names: "Avinaya"
+    email: "Avi123ramesh@gmail.com"
+version: "1.0"
+date-released: "2026-09-01"
+abstract: "Windows software for converting particle-size distributions and mixture proportions into randomized three-dimensional spherical-particle structures and grouped microstructure statistics."

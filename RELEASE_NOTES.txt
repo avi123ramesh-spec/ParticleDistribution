@@ -1,0 +1,21 @@
+PARTICLE MICROSTRUCTURE GENERATOR - RELEASE NOTES
+
+Version 1.0 | September 1, 2026
+
+Initial public release of Particle Microstructure Generator.
+
+- Four-step workflow for PSD preparation, particle-count generation, 3D placement,
+  and MAT-based recalculation or visualization
+- Rigid and periodic boundary modes
+- RSA, RSA + Relaxation, Soft-Sphere Relaxation, and Lubachevsky-Stillinger methods
+- Material-group calculations for MCD, CN, ND, and MP
+- Completed and progressive 3D visualization with periodic boundary clipping and
+  filled cut surfaces
+- XY, XZ, and YZ slice export
+- Complete MAT placement storage and requested-versus-achieved summaries
+- Illustrated User Manual available from the application Help button
+- 64-bit Windows installer with web-delivered MATLAB Runtime R2024a
+
+Large particle systems can require substantial memory and processing time. Review
+requested particle counts and available system resources before starting a large
+placement run.
